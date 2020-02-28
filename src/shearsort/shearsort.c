@@ -11,7 +11,7 @@ Threads
 Matthew Ruigrok
 */
 
-/*4x4 matrix for 16 entries, define the row/column vector sizes as VEC_SIZE,
+/*N x N matrix define the row/column vector sizes as VEC_SIZE,
 INC is for sorting in increasing order, DEC in decreasing order*/
 
 #define INC 0
