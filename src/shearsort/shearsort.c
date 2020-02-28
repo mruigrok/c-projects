@@ -269,7 +269,7 @@ int main(void)
 
   	/*Initialize the matrix*/
   	
-  	read_in_array("input.txt");
+  	read_in_array("input15.txt");
 
   	printf("\n\n");
 
