@@ -9,7 +9,6 @@
 SFRW ENG 3SH3 Lab 3
 Threads
 Matthew Ruigrok
-400147452
 */
 
 /*4x4 matrix for 16 entries, define the row/column vector sizes as VEC_SIZE,
