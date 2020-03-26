@@ -6,4 +6,4 @@ Has some obvious beginner-looking code (large functions, strange loop iterations
 Shearsort algorithm implementation with multiple threads and synchronization
 
 # mmap
-Using memory mapping and semaphores to 'add' and 'allocate' units of ceratin resources that are held in a table
+Using memory mapping and semaphores to 'add' and 'allocate' units of certain resources that are held in a table
