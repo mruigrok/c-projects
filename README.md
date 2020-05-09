@@ -1,7 +1,7 @@
 # data-structures
 Collection of data structures and algortithms implemented in C
 
-# Shearsort
+# shearsort
 Shearsort algorithm implementation with multiple threads and synchronization
 
 # mmap
