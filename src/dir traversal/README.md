@@ -1,5 +1,5 @@
 # Traversing Directories
 
-![]('./dir.png')
-![]('./file.png')
+![](./dir.png)
+![](./file.png)
 
