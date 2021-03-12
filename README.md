@@ -14,5 +14,5 @@ Designed to be similar to the -ls lRa command. Also displays file/dir/link inode
 Found an old Battleship Game I programmed using C to run on the command line. 
 Has some obvious beginner-looking code (large functions, strange loop iterations) in it but it was my first real project while learning the language.
 
-#learning
+# learning
 Implemented value iteration and q learning to play count to 20 game
