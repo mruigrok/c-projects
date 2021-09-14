@@ -6,6 +6,8 @@ Shearsort algorithm implementation with multiple threads and synchronization
 
 # mmap
 Using memory mapping and semaphores to 'add' and 'allocate' units of certain resources that are held in a table
+# filters
+Implemented a [Savizky-Golay](https://en.wikipedia.org/wiki/Savitzky%E2%80%93Golay_filter) filter to smooth noisy input signals.
 
 # dir traversal
 Designed to be similar to the -ls lRa command. Also displays file/dir/link inode propeties
